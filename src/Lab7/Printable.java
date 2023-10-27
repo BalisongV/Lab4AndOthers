@@ -1,2 +1,6 @@
-package Lab9;public interface Printable {
+package Lab7;
+
+interface Printable {
+    void print();
 }
+
